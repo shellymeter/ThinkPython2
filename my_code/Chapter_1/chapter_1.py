@@ -23,4 +23,10 @@ SyntaxError: invalid syntax
 
 """Exercise 2"""
 print("Seconds in 42 min and 42 sec:", (42*60) + 42)
-#
+
+
+""" Exercise 2.2
+How many miles in 10 km
+"""
+print("How many miles in 10 km", 10/1.61)
+
