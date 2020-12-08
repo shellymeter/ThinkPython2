@@ -70,6 +70,48 @@ print("shipping cost", (0.75*59)+3)
 print("total wholesale cost = $", 898.1999999999999+47.25)
 
 
+"""If I leave my house at 6:52 am and run 1 mile at an easy pace (8:15 per mile), 
+then 3 miles at tempo (7:12 per mile) and 1 mile at easy pace again, what time do I get home for breakfast?
+"""
+
+print("8:15 in sec * 2:", ((8*60)+15)*2)
+print("7:12 in sec * 3:", ((7*60)+12)*3)
+print("total seconds:", 990+1296)
+print("total minutes:", 2286/60)
+print("0.1 min to seconds:", 0.1*60)
+print("total time: 38 min 6 sec")
+print("breakfast time: 7:30 am")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
