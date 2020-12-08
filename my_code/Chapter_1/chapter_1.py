@@ -23,3 +23,4 @@ SyntaxError: invalid syntax
 
 """Exercise 2"""
 print("Seconds in 42 min and 42 sec:", (42*60) + 42)
+#
